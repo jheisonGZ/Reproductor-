@@ -1,0 +1,6 @@
+{
+  "name": "Música y Videos",
+  "description": "Un reproductor de música y videos de alta fidelidad con estilo oscuro estilo Spotify, favoritos, búsqueda y listas de reproducción locales con soporte continuo de reproducción.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
